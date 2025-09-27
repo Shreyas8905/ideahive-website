@@ -70,17 +70,15 @@ cd frontend
 npm install
 npm start
 ```
-Visit: [http://localhost:3000](http://localhost:3000)
-
 ---
 
 ### 3️⃣ Run the Backend
 
 ```bash
 cd backend
-pip install -r requirements.txt  
+pip install -r requirements.txt
+python3 main.py
 ```
-API: [http://localhost:8000](http://localhost:8000)
 
 ---
 
@@ -102,9 +100,9 @@ MIT License
 
 ## 📬 Contact
 
-- **Author:** Shreyas8905
-- **Organization:** Platform 404
-- **Email:** _(add your contact email)_
+- **Author:** Shreyas Kulkarni
+- **Organization:** CodeZero
+- **Email:** Shreyaskulkarni159@gmail.com
 
 ---
 

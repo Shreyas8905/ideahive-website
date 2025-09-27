@@ -105,6 +105,10 @@ MIT License
 - **Email:** Shreyaskulkarni159@gmail.com
 
 ---
+## **Caution**
+Frontend and backend have separate repo which are hosted. Yet the next releses of this webiste will be done ffom here only.
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/IdeaHive-CodeZero-5B8DEF?style=for-the-badge&logo=github" alt="IdeaHive Badge" />

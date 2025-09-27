@@ -107,5 +107,5 @@ MIT License
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IdeaHive-Platform_404-5B8DEF?style=for-the-badge&logo=github" alt="IdeaHive Badge" />
+  <img src="https://img.shields.io/badge/IdeaHive-CodeZero-5B8DEF?style=for-the-badge&logo=github" alt="IdeaHive Badge" />
 </p>
